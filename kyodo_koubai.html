@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>共同購買プラン - 粉もんプロジェクト</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* 仅针对此页面所需的额外样式，确保表格在移动端可滚动 */
+        .lang-switch {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 0.9rem;
+        }
+        .lang-switch a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 8px;
+            border-radius: 4px;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            transition: background-color 0.3s;
+        }
+        .lang-switch a:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+        .table-responsive {
+            overflow-x: auto;
+            margin-bottom: 20px;
+        }
+        .data-table { min-width: 550px; font-size: 0.8rem; }
+        .org-table th, .org-table td { min-width: 80px; }
+        .step-list { list-style: none; padding: 0; }
+        .step-list li { background-color: #e9f5ff; padding: 12px; border-left: 5px solid #007bff; border-radius: 6px; margin-bottom: 15px; font-size: 0.9rem; }
+        .step-list strong { display: block; font-size: 1.0rem; margin-bottom: 5px; color: #007bff; }
+    </style>
+</head>
+<body>
+
+<header class="app-header">
+    <div class="lang-switch">
+        <a href="kyodo_koubai-en.html">English (EN)</a>
+    </div>
+    <h1>共同団体：共同購買プラン</h1>
+    <p>原材料調達におけるコスト削減と供給安定化</p>
+</header>
+
+<nav class="nav-menu">
+    <ul>
+        <li><a href="index.html">ホーム</a></li>
+        <li><a href="summary.html">概要</a></li>
+        <li class="dropdown-item">
+            <a href="kyodo_dantai_index.html" class="active">共同団体</a>
+            <div class="dropdown-content">
+                <a href="kyodo_koubai.html" class="active">共同購買プラン</a>
+                <a href="kyodo_keiyaku.html">共同契約プラン</a>
+            </div>
+        </li>
+        <li><a href="jinzaishare.html">人材シェア</a></li>
+        <li class="dropdown-item">
+            <a href="kokyaku_service_index.html">顧客サービス</a>
+            <div class="dropdown-content">
+                <a href="kokyaku_taiken.html">顧客体験の向上</a>
+                <a href="konamon_map.html">粉もんマップ詳細</a>
+            </div>
+        </li>
+    </ul>
+</nav>
+
+<main class="container">
+    <div class="report-content">
+        <h2>共同購買の仕組み</h2>
+        <p>複数の地元事業者の購買量を集約することで、仕入業者に対する交渉力を高め、原材料の仕入れ単価引き下げと安定した調達を実現します。これは、SDG 8（経済成長）に直接貢献します。</p>
+
+        <h3>共同購買による期待効果</h3>
+        <div class="table-responsive">
+            <table class="data-table">
+                <thead>
+                <tr>
+                    <th>品目</th>
+                    <th>平均価格削減目標</th>
+                    <th>留意事項</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>主要な粉類</td>
+                    <td>5～10％</td>
+                    <td>国産品またはバルク輸入品の大量仕入れ。</td>
+                </tr>
+                <tr>
+                    <td>卵・肉・キャベツ</td>
+                    <td>3～5％</td>
+                    <td>地元生産者との契約による安定供給と鮮度の確保。</td>
+                </tr>
+                <tr>
+                    <td>物流コスト</td>
+                    <td>10～15％</td>
+                    <td>複数店舗への小口配送を集約化し、一括納品に切り替える。</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h3>共同団体としての法人格の選択肢</h3>
+        <p>法人格の選択は、補助金の適用や利益分配の柔軟性に影響します。長期的な安定性のため、事業協同組合の設立を推奨します。</p>
+        <div class="table-responsive">
+            <table class="data-table org-table">
+                <thead>
+                <tr>
+                    <th></th>
+                    <th>事業協同組合</th>
+                    <th>一般社団法人</th>
+                    <th>LLP（有限責任事業組合）</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>メリット</td>
+                    <td>補助金適用・制度適合</td>
+                    <td>設立が迅速、柔軟</td>
+                    <td>小規模試行に最適</td>
+                </tr>
+                <tr>
+                    <td>デメリット</td>
+                    <td>行政認可・監督あり</td>
+                    <td>利益分配不可</td>
+                    <td>信用力が限定的</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h3 style="margin-top: 30px;">実施ステップ</h3>
+        <ul class="step-list">
+            <li>
+                <strong>1. 初期調査フェーズ（1～2ヶ月）</strong>
+                対象地域選定、店舗数（目安5～20店舗）集め、共通仕入れ品目と量・頻度、現状の単価・物流コストをヒアリング。
+            </li>
+            <li>
+                <strong>2. 试行発注フェーズ（3～4ヶ月）</strong>
+                共通品目（粉、キャベツ、油など）を5〜10品目選定し、共同発注スケジュールを決定。物流手配を開始。
+            </li>
+            <li>
+                <strong>3. 評価フェーズ（試行後1ヶ月）</strong>
+                削減額・単価低下率・配送コストをデータで比較し、運用上の課題を抽出。
+            </li>
+            <li>
+                <strong>4. 本格導入フェーズ</strong>
+                品目拡大（ハラール対応等）、地域特産との連携、仕入れ価格・物流コストの定期的な見直し。
+            </li>
+        </ul>
+
+        <a href="kyodo_keiyaku.html" class="cta-button" style="background-color: #5cb85c;">共同契約プランの詳細へ</a>
+    </div>
+
+    <footer class="app-footer">
+        <p>© 2025 粉もんプロジェクト</p>
+    </footer>
+</main>
+
+</body>
+</html>
