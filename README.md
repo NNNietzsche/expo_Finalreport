@@ -9,14 +9,14 @@
 </p>
 
 ## English version
-<p align="center>
+<p align="center">
 <img alt="English version" src="https://github.com/user-attachments/assets/e6679160-b0a7-4972-b473-c6379e384e71" style="width:70%;" />
 </p>
 
 ##🗺️粉もんマップ
-
-<img width="1439" height="814" alt="app" src="https://github.com/user-attachments/assets/54e10b59-3575-412d-a88e-5745b805116f" />
-
+<p align="center">
+<img width="1439" height="814" alt="app" src="https://github.com/user-attachments/assets/54e10b59-3575-412d-a88e-5745b805116f" style= "width:70%;"/>
+</p>
 
 ## 📱 スマートフォン対応済み  
 本サイトはスマートフォン向けに最適化されています。
