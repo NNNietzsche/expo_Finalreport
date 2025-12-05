@@ -4,7 +4,7 @@
 
 
 ## ホームページ
-<img width="1438" height="814" alt="homepage" src="https://github.com/user-attachments/assets/0477c349-05c6-48f8-90a7-d596610cb1db" />
+<img width="1438" height="814" alt="homepage" src="https://github.com/user-attachments/assets/0477c349-05c6-48f8-90a7-d596610cb1db" style="width：50%;"/>
 
 ## English version
 <img width="1440" height="813" alt="English version" src="https://github.com/user-attachments/assets/e6679160-b0a7-4972-b473-c6379e384e71" />
