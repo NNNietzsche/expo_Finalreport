@@ -5,7 +5,7 @@
 
 ## ホームページ
 <p align="center">
-<img alt="homepage" src="https://github.com/user-attachments/assets/0477c349-05c6-48f8-90a7-d596610cb1db" style="width:50%;"/>
+<img alt="homepage" src="https://github.com/user-attachments/assets/0477c349-05c6-48f8-90a7-d596610cb1db" style="width:70%;"/>
 </p>
 
 ## English version
