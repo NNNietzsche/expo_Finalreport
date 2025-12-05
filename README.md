@@ -14,7 +14,7 @@
 </p>
 
 ---
-##🗺️粉もんマップ
+## 🗺️粉もんマップ
 
 <p align="center">
 <img width="1439" height="814" alt="app" src="https://github.com/user-attachments/assets/54e10b59-3575-412d-a88e-5745b805116f" style= "width:70%;"/>
