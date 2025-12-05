@@ -13,6 +13,7 @@
 <img alt="English version" src="https://github.com/user-attachments/assets/e6679160-b0a7-4972-b473-c6379e384e71" style="width:70%;" />
 </p>
 
+---
 ##🗺️粉もんマップ
 
 <p align="center">
